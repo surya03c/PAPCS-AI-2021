@@ -1,2 +1,2 @@
 # PAPCS-AI-2021
-A collection of my 'Post-AP Computer Science: Artificial Intelligence' projects
+A collection of my 'Post-AP Computer Science: Artificial Intelligence' projects. Thus far, in the 2020-2021 school year, we have worked through the CS188 course offered by the University of California, Berkeley as part of their Electrical Engineering and Computer Science (EECS) program, which has been made available online. This repository contains my attempts at projects 1-4, which cover concepts like DFS, BFS, minimax, alpha-beta pruning, q-learning, etc.
